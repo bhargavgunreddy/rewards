@@ -24,4 +24,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 4. The calculation seem wrong in the question so posted actual calculation in header
 
+<img width="1522" alt="RewardsAppSnapshot" src="https://user-images.githubusercontent.com/6047374/124223853-838d6080-dad2-11eb-9ead-8a8fd720a451.png">
 
