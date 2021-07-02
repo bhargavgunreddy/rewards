@@ -6,8 +6,8 @@
   },
   {
     "transactionDate": "06/28/21",
-    "amount": 183,
-    "category": "shopping"
+    "amount": 1893,
+    "category": "mortgage"
   },
   {
     "transactionDate": "06/27/21",
@@ -35,18 +35,42 @@
     "category": "utilities"
   },
   {
-    "transactionDate": "06/11/21",
+    "transactionDate": "05/28/21",
     "amount": 1893,
     "category": "mortgage"
   },
   {
-    "transactionDate": "06/03/21",
-    "amount": 123,
+    "transactionDate": "05/23/21",
+    "amount": 176,
     "category": "shopping"
   },
   {
-    "transactionDate": "05/27/21",
-    "amount": 123,
+    "transactionDate": "05/17/21",
+    "amount": 143,
+    "category": "grocery"
+  },  {
+    "transactionDate": "05/09/21",
+    "amount": 12,
+    "category": "grocery"
+  },
+  {
+    "transactionDate": "04/29/21",
+    "amount": 76,
+    "category": "utilities"
+  },
+  {
+    "transactionDate": "04/28/21",
+    "amount": 1893,
+    "category": "mortgage"
+  },
+  {
+    "transactionDate": "04/13/21",
+    "amount": 129,
+    "category": "shopping"
+  },
+  {
+    "transactionDate": "04/07/21",
+    "amount": 198,
     "category": "grocery"
   }
 ]
