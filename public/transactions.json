@@ -1,0 +1,52 @@
+[
+  {
+    "transactionDate": "06/30/21",
+    "amount": 123,
+    "category": "grocery"
+  },
+  {
+    "transactionDate": "06/28/21",
+    "amount": 183,
+    "category": "shopping"
+  },
+  {
+    "transactionDate": "06/27/21",
+    "amount": 23,
+    "category": "dining"
+  },
+  {
+    "transactionDate": "06/25/21",
+    "amount": 13,
+    "category": "insurance"
+  },
+  {
+    "transactionDate": "06/20/21",
+    "amount": 13,
+    "category": "subscriptions"
+  },
+  {
+    "transactionDate": "06/19/21",
+    "amount": 12,
+    "category": "grocery"
+  },
+  {
+    "transactionDate": "06/16/21",
+    "amount": 76,
+    "category": "utilities"
+  },
+  {
+    "transactionDate": "06/11/21",
+    "amount": 1893,
+    "category": "mortgage"
+  },
+  {
+    "transactionDate": "06/03/21",
+    "amount": 123,
+    "category": "shopping"
+  },
+  {
+    "transactionDate": "05/27/21",
+    "amount": 123,
+    "category": "grocery"
+  }
+]
