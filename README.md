@@ -14,11 +14,13 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 #################
 
-1. Transactions get populated on load via useEffect
+1. This setup is from create-react-app this is quickest way to setup react app
+
+2. Transactions get populated on load via useEffect
 
 2. When these transactions change the rewards table gets calculated again
 
-3. When transactions get changed the sum of rewards per month and total gets calculated.
+3. When transactions get changed the sum of rewards per month and total gets calculated
 
 4. The calculation seem wrong in the question so posted actual calculation in header
 
